@@ -1,0 +1,11 @@
+.main_component a {
+  margin-right: 30px;
+  font-size: 20px;
+  /* background-color: aqua; */
+  /* padding: 10px; */
+}
+
+.active_link_component a {
+  background-color: aqua;
+  text-decoration: underline;
+}
